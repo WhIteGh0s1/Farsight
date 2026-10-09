@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Farsight — экран препода прямо на твоём мониторе" width="100%">
+  <img src="assets/banner-2.png" alt="Farsight — экран препода прямо на твоём мониторе" width="100%">
 </p>
 
 <p align="center">
