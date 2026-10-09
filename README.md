@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WhIteGh0s1/Farsight/releases/latest"><img src="assets/download.png" alt="Скачать последнюю версию" width="420"></a>
+  <a href="https://github.com/WhIteGh0s1/Farsight/releases/latest"><img src="assets/download.png" alt="Скачать последнюю версию" width="340"></a>
   <br>
   <sub>Windows 10/11 · 64-бит · бесплатно · без интернета</sub>
 </p>
