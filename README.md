@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WhIteGh0s1/Farsight/releases/latest"><img src="assets/download-en.png" alt="Download the latest version" width="340"></a>
+  <a href="https://github.com/WhIteGh0s1/Farsight/releases/latest/download/Farsight-Setup.exe"><img src="assets/download-en.png" alt="Download the latest version" width="340"></a>
   <br>
   <sub>Windows 10/11 · 64-бит · бесплатно · без интернета</sub>
 </p>
@@ -28,9 +28,9 @@
 
 ## Быстрый старт
 
-1. Скачай архив из [Releases](../../releases/latest) и распакуй **целиком**: `Farsight.exe` + папка `ocr`.
-   При первом запуске Farsight сам установится в `C:\ProgramData\Farsight`: Windows **один раз** спросит права админа, дальше — никаких «Разрешить», автозапуск для всех пользователей компа, настройки сохраняются.
-2. Запусти `Farsight.exe` и выбери роль:
+1. Скачай [**Farsight-Setup.exe**](../../releases/latest/download/Farsight-Setup.exe) и запусти. Windows может предупредить о неизвестном издателе: «Подробнее» → «Выполнить в любом случае».
+   Farsight установится в `C:\ProgramData\Farsight`: Windows **один раз** спросит права админа, дальше — никаких «Разрешить», автозапуск для всех пользователей компа, настройки сохраняются.
+2. Выбери роль:
    - **Комп препода**: Farsight сидит в трее и транслирует экран;
    - **Я студент**: Farsight сам находит препода в локальной сети.
 3. Всё, дальше он запускается вместе с Windows и сам обновляется.
@@ -61,4 +61,4 @@ Farsight.exe --uninstall
 
 ---
 
-Исходный код закрыт. Сторонние компоненты и их лицензии перечислены в `THIRD_PARTY_NOTICES.txt` в архиве.
+Исходный код закрыт. Сторонние компоненты и их лицензии перечислены в `THIRD_PARTY_NOTICES.txt` рядом с программой.
