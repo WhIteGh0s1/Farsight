@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-3.png" alt="Farsight — экран препода прямо на твоём мониторе" width="100%">
+  <img src="assets/banner-4.png" alt="Farsight — экран препода прямо на твоём мониторе" width="100%">
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/WhIteGh0s1/Farsight/releases/latest"><img src="assets/download-bw.png" alt="Скачать последнюю версию" width="340"></a>
+  <a href="https://github.com/WhIteGh0s1/Farsight/releases/latest"><img src="assets/download-en.png" alt="Download the latest version" width="340"></a>
   <br>
   <sub>Windows 10/11 · 64-бит · бесплатно · без интернета</sub>
 </p>
